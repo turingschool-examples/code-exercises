@@ -1,0 +1,18 @@
+{
+  "name": "exercises",
+  "version": "1.0.0",
+  "description": "Computer Science-ish programming problems and solutions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch --onlyChanged"
+  },
+  "keywords": [],
+  "author": "Steve Kinney <hello@stevekinney.net> (http://stevekinney.net)",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^16.0.1"
+  },
+  "dependencies": {
+    "@types/jest": "^15.1.32"
+  }
+}
